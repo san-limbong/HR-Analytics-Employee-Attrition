@@ -37,16 +37,23 @@ Setup environment:
 1. Pengguna telah menginstal Anaconda di komputer yang digunakan
 2. Membuka terminal atau command prompt (cmd)
 3. Buat Virtual Environment Baru:
+```
 conda create --name myenv python=3.8
 conda activate myenv
-4. Melakukan Install library yang digunakan:
+```
+5. Melakukan Install library yang digunakan:
 Pastikan Anda menggunakan versi scikit-learn yang sama (misalnya 1.2.2):
+```
 pip install scikit-learn==1.2.2
 pip install joblib pandas numpy
-5. Menjalankan jupyter notebook
-6. Membuka prediction.py 
-7. Menginput daya yang ingin diprediksi sesuai dengan label yang tertera pada terminal/cmd/command prompt
-8. Mengisi semua data yang diperlukan dan tunggu hingga hasil prediksi keluar. 
+```
+6. Menjalankan jupyter notebook
+7. Membuka prediction.py :
+```
+python prediction.py
+```
+9. Menginput daya yang ingin diprediksi sesuai dengan label yang tertera pada terminal/cmd/command prompt
+10. Mengisi semua data yang diperlukan dan tunggu hingga hasil prediksi keluar. 
 
 - Metabase 
 ```
