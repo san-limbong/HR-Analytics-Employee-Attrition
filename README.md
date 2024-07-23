@@ -138,16 +138,7 @@ Berdasarkan analisis yang dilakukan terhadap data attrition karyawan, beberapa p
     - Karyawan yang keluar kebanyakan tinggal pada jarak 2-3 KM dari kantor, diikuti oleh 1-2 KM. 
     - Hal ini dapat mengindikasikan bahwa jarak yang dekat tidak cukup untuk mempertahankan karyawan jika faktor-faktor lain seperti kepuasan kerja dan pengembangan karir tidak terpenuhi.
 
-10. Berikut adalah hasil evaluasi setiap model yang digunakan dalam pengembangan model
-                   Model       Accuracy Test
-1.     Gradient Boosting       0.853774
-2.           Naive Bayes       0.839623
-3.  Super Vector Machine       0.839623
-4.   Adaboost Classifier       0.839623
-5.         Random Forest       0.830189
-6.                   KNN       0.816038
-7.   Logistic Regression       0.750000
-8.         Decision Tree       0.735849
+10. Hasil Evaluasi model terbaik ditemukan pada Gradient Boosting
 
 ### Rekomendasi Action Items (Optional)
 1. Fokus pada Retensi Karyawan Berperforma Tinggi dengan mengidentifikasi serta menangani penyebab ketidakpuasan diantara karyawan tersebut.
