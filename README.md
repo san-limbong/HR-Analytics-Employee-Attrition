@@ -30,7 +30,7 @@ Untuk mencegah hal ini semakin parah, manajer departemen HR ingin meminta bantua
 
 ### Persiapan
 
-Sumber data: [Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
+Sumber data: [Github](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee) atau [IBM](https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/)
 
 Setup environment:
 
